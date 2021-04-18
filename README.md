@@ -1,6 +1,8 @@
 # mario-pyramid
  Allow the user to decide just how tall the pyramids should be by first prompting them for a positive integer between, say, 1 and 8, inclusive.
 
+[mario-pyramid](https://cs50.harvard.edu/x/2021/psets/1/mario/more/pyramids.png)
+
 Here’s how the program might work if the user inputs `8` when prompted:
 ```
 $ ./mario
